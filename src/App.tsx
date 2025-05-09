@@ -4,7 +4,7 @@ const STATE_MACHINE_NAME = "State Machine 1";
 
 export function App() {
   const { RiveComponent } = useRive({
-    src: "src/assets/character_man.riv",
+    src: "/character_man.riv",
     stateMachines: STATE_MACHINE_NAME,
     autoplay: true,
   });
