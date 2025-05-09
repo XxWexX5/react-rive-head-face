@@ -1,5 +1,6 @@
 # 🧠 Projeto Rive + React + Tailwind
 Este é um projeto experimental criado com o objetivo de explorar animações usando Rive, integrado em uma aplicação React.js estilizada com TailwindCSS.
+
 https://react-rive-head-face.vercel.app
 
 ![image](https://github.com/user-attachments/assets/93eb9204-517a-4d28-9e72-1e1726a9897a)
