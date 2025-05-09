@@ -15,7 +15,7 @@ export function App() {
         <RiveComponent />
       </div>
 
-      <div className="absolute w-full inset-0 bg-[radial-gradient(circle,white_0%,transparent_45%)] pointer-events-none" />
+      <div className="absolute w-full inset-0 bg-[radial-gradient(circle,white_0%,transparent_35%)] pointer-events-none" />
     </div>
   );
 }

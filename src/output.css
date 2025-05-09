@@ -240,6 +240,9 @@
   .bg-\[radial-gradient\(circle\,white_0\%\,transparent_30\%\)\] {
     background-image: radial-gradient(circle,white 0%,transparent 30%);
   }
+  .bg-\[radial-gradient\(circle\,white_0\%\,transparent_35\%\)\] {
+    background-image: radial-gradient(circle,white 0%,transparent 35%);
+  }
   .bg-\[radial-gradient\(circle\,white_0\%\,transparent_40\%\)\] {
     background-image: radial-gradient(circle,white 0%,transparent 40%);
   }
